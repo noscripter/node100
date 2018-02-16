@@ -12,7 +12,7 @@
     "promise-it-wont-hurt": "git://github.com/stevekane/promise-it-wont-hurt.git",
     "q": "~0.9.7",
     "rc": "^0.5.1",
-    "request": "~2.27.0",
+    "request": "~2.82.0",
     "request-promise": "^0.2.4",
     "songbird": "^1.0.1",
     "step": "0.0.5",
